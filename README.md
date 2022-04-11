@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlperenH My name is Alperen Harmanbasi.
 - 👀 I’m interested in Artifical Intelligence, Machine Learning, AR/VR Technologies, Cyber Security.
-- 🌱 I’m currently in Atılım University, Ankara, Turkey, Software Engineering, BS.
+- 🌱 I’m currently in Atılım University, Ankara, Turkey, Software Engineering.
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me alperenhrmn@gmail.com
 
